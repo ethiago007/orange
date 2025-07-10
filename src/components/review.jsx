@@ -1,6 +1,6 @@
 import React from "react";
 import { ChevronRight, Edit, CheckCircle, Star, CircleCheck, Pencil } from "lucide-react";
-import orangex from "../assets/image/orangeLogo.png";
+import orangex from "../assets/image/orangeLogo.PNG";
 import ivan from "../assets/image/ivan.png";
 import tobi from "../assets/image/tobi.png";
 import TaskAltIcon from '@mui/icons-material/TaskAlt';
